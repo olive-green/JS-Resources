@@ -1,0 +1,40 @@
+Certainly! Here are some online resources and links to help you learn React:
+
+1)Official React Documentation:
+React Official Documentation(https://reactjs.org/docs)
+React's Main Concepts(https://reactjs.org/docs/hello-world.html)
+
+2)React Tutorial:
+Intro to React by React(https://reactjs.org/tutorial/tutorial.html)
+
+3)Video Tutorials:
+React Crash Course (YouTube) by Traversy Media(https://www.youtube.com/watch?v=sBws8MSXN7A)
+React.js - Full Course for Beginners (YouTube) by freeCodeCamp(https://www.youtube.com/watch?v=nTeuhbP7wdE)
+The Net Ninja's React Playlist (YouTube)(https://www.youtube.com/playlist?list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR)
+
+4)Online Courses:
+React - The Complete Guide (Udemy)(https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+React for Beginners (Wes Bos)(https://reactforbeginners.com/)
+React - Getting Started (Pluralsight)(https://www.pluralsight.com/courses/react-js-getting-started)
+
+5)Books:
+"Learning React" by Alex Banks and Eve Porcello
+"React Up and Running" by Stoyan Stefanov
+
+6)Blogs and Articles:
+Dev.to React Articles(https://dev.to/t/react)
+Medium React Articles(https://medium.com/tag/react)
+Scotch.io React Tutorials(https://scotch.io/tutorials)
+
+7)Online Communities and Forums:
+Reactiflux Discord Community(https://www.reactiflux.com/)
+Stack Overflow React Questions(https://stackoverflow.com/questions/tagged/reactjs)
+
+8)GitHub Repositories:
+React Repository(https://github.com/facebook/react)
+
+9)Social Media:
+Follow React developers, organizations, and hashtags on Twitter for updates and discussions.
+
+10)Practice Projects:
+Build your own React projects to apply what you've learned. Try creating a personal website, a to-do list app, or a simple e-commerce site.
