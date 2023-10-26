@@ -1,0 +1,40 @@
+Solid.js Learning Resources
+
+Solid.js is a fast, lightweight, and reactive JavaScript library for building user interfaces. Whether you're new to Solid.js or looking to enhance your skills, these resources will help you get started and become proficient in Solid.js development.
+
+Official Documentation
+- Solid.js Official Documentation: https://solidjs.com/docs
+
+Tutorials and Courses
+1. Solid.js Tutorial by Ben Awad:
+   - YouTube Playlist: https://www.youtube.com/playlist?list=PLN3n1USn4xlmyw3ebYuZmGp60mcENitI6
+
+2. Solid.js - The Complete Guide (Udemy):
+   - Course Link: https://www.udemy.com/course/solid-the-complete-guide/
+
+3. Solid.js - Getting Started (Egghead.io):
+   - Course Link: https://egghead.io/courses/solidjs-getting-started-0a5256a3
+
+Blogs and Articles
+1. Why Solid.js Is Revolutionary: https://dev.to/ryansolid/why-solid-js-is-revolutionary-4ij6
+
+2. Solid.js vs. React: A Comparative Guide: https://blog.logrocket.com/solidjs-vs-react-a-comparative-guide/
+
+3. Building a Real-Time Todo App with Solid.js and Firebase: https://dev.to/ryansolid/building-a-real-time-todo-app-with-solid-js-and-firebase-5g4l
+
+Community and Forums
+1. Solid.js Community on Discord: https://solidjs.com/discord
+
+2. Solid.js GitHub Repository: https://github.com/solidjs/solid
+
+Books
+1. Solid.js Essentials by Tomasz Stryjewski: https://www.packtpub.com/product/solid-js-essentials/9781801079271
+
+2. Solid.js - The Complete Developer's Guide by Rezo Imnadze: https://www.amazon.com/Solid-js-Complete-Developers-Guide-Detailed-ebook/dp/B09TVD4B4S
+
+YouTube Channels
+1. Ryan Solid: https://www.youtube.com/c/RyanSolid
+
+2. Ben Awad: https://www.youtube.com/c/BenAwad97
+
+These resources will help you become proficient in Solid.js development. Explore the official documentation, tutorials, and community discussions to build interactive and efficient user interfaces with Solid.js.

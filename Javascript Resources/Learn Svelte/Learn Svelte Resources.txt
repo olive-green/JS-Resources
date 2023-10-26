@@ -1,0 +1,43 @@
+Svelte Learning Resources
+
+Svelte is a popular JavaScript framework for building user interfaces. Whether you're a beginner or an experienced developer, these resources will help you get started and become proficient in Svelte development.
+
+Official Documentation
+- Svelte Official Documentation: https://svelte.dev/docs
+
+Tutorials and Courses
+1. Svelte Tutorial by The Net Ninja:
+   - YouTube Playlist: https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw
+
+2. Svelte 3: The Complete Guide (Udemy):
+   - Course Link: https://www.udemy.com/course/sveltejs-the-complete-guide/
+
+3. Svelte.js - The Complete Introduction (Academind):
+   - Course Link: https://academind.com/learn/svelte-the-complete-introduction/
+
+4. Svelte Mastery (Courses and Workshops):
+   - Website: https://sveltemastery.com/
+
+Blogs and Articles
+1. Svelte vs. React: A Comparative Guide: https://blog.logrocket.com/svelte-vs-react-a-comparative-guide/
+
+2. The Future of Web Development: SvelteKit: https://dev.to/lauragift21/the-future-of-web-development-sveltekit-1d5
+
+3. Building a Real-Time Chat App with Svelte and Firebase: https://auth0.com/blog/building-a-real-time-chat-app-with-svelte-and-firebase/
+
+Community and Forums
+1. Svelte Community on Reddit: https://www.reddit.com/r/sveltejs/
+
+2. Svelte Discord: https://svelte.dev/chat
+
+Books
+1. Svelte 3 Up and Running by Anthony Gore: https://www.amazon.com/Svelte-Up-Running-Up-Running/dp/1492070906
+
+2. Svelte 3 for Beginners by Jack Franklin: https://leanpub.com/svelte-for-beginners
+
+YouTube Channels
+1. The Net Ninja: https://www.youtube.com/c/TheNetNinja
+
+2. Academind: https://www.youtube.com/c/Academind
+
+These resources will help you get started with Svelte and master it as you build web applications and UIs. Happy learning!
