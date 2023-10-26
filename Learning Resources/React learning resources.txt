@@ -38,3 +38,5 @@ Follow React developers, organizations, and hashtags on Twitter for updates and 
 
 10)Practice Projects:
 Build your own React projects to apply what you've learned. Try creating a personal website, a to-do list app, or a simple e-commerce site.
+
+Remember that React.js is closely tied to JavaScript, so it's essential to have a good understanding of JavaScript and ES6 features as you learn React.js. Practice and hands-on experience are crucial to becoming proficient in React.js.
